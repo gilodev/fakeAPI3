@@ -6,7 +6,7 @@
           "type": "Administrateur",
           "applications": ["KOTscan Admin"],
           "createdAt": "2022-01-22T07:45:00Z",
-          "updatedAt": "2022-08-18T07:45:00Z",
+          "updatedAt": "2022-02-05T07:45:00Z",
           "updatedBy": {
             "ulid": "01EN0A87D1Y7W9H936589GM",
             "firstname": "Fanny",
@@ -19,7 +19,7 @@
           "type": "Support",
           "applications": ["KOTscan Admin"],
           "createdAt": "2022-01-22T07:45:00Z",
-          "updatedAt": "2022-08-10T07:45:00Z",
+          "updatedAt": "2022-02-02T07:45:00Z",
           "updatedBy": {
             "ulid": "01EN0A87D1Y7W9H936589GM",
             "firstname": "Camille",
@@ -32,7 +32,7 @@
           "type": "Country Manager",
           "applications": ["KOTscan Admin"],
           "createdAt": "2022-01-22T07:45:00Z",
-          "updatedAt": "2022-05-10T07:45:00Z",
+          "updatedAt": "2022-02-03T07:45:00Z",
           "updatedBy": {
             "ulid": "01EN87D1Y7W9H9J3N589GM",
             "firstname": "Jean-Baptiste",
@@ -45,7 +45,7 @@
           "type": "Assistant Manager",
           "applications": ["KOTscan Admin"],
           "createdAt": "2022-01-22T07:45:00Z",
-          "updatedAt": "2022-11-07T07:45:00Z",
+          "updatedAt": "2022-01-28T07:45:00Z",
           "updatedBy": {
             "ulid": "string",
             "firstname": "Fanny",
@@ -58,7 +58,7 @@
           "type": "Administrateur",
           "applications": ["KOTscan Manager"],
           "createdAt": "2022-01-22T07:45:00Z",
-          "updatedAt": "2022-07-14T07:45:00Z",
+          "updatedAt": "2022-01-27T07:45:00Z",
           "updatedBy": {
             "ulid": "01EN0A87D1Y7W9936J589KD",
             "firstname": "Fanny",
@@ -71,7 +71,7 @@
           "type": "Opérateur",
           "applications": ["KOTscan Manger"],
           "createdAt": "2022-01-22T07:45:00Z",
-          "updatedAt": "2022-12-20T07:45:00Z",
+          "updatedAt": "2022-01-25T07:45:00Z",
           "updatedBy": {
             "ulid": "01EA87D1Y7W9H936J3N589",
             "firstname": "Fanny",
@@ -84,7 +84,7 @@
           "type": "Client en compte",
           "applications": ["KOTscan Manager"],
           "createdAt": "2022-01-22T07:45:00Z",
-          "updatedAt": "2022-09-20T07:45:00Z",
+          "updatedAt": "2022-01-24T07:45:00Z",
           "updatedBy": {
             "ulid": "010A87D1Y7W936J3N59KD",
             "firstname": "Fanny",
