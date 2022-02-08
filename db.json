@@ -90,9 +90,5 @@
             "lastname": "Lemoine"
           }
 	      }
-    ],
-    "metadatas": {
-      "pagination": {
-        "nextCursor": null,
-        "totalItems": 7
+    ]
 }
