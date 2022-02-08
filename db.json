@@ -1,6 +1,6 @@
 {"administration": [
 	      {
-          "ulid": "01F4DB7DX836VR4J9KMWRTEJ",
+          "id": "01F4DB7DX836VR4J9KMWRTEJ",
           "name": "Administrateur",
           "type": "Administrateur",
           "applications": ["KOTscan Admin"],
@@ -13,7 +13,7 @@
           }
 	      },
 	      {
-          "ulid": "01F47ADB7DX836VJ9KMWRTEJ",
+          "id": "01F47ADB7DX836VJ9KMWRTEJ",
           "name": "Support",
           "type": "Support",
           "applications": ["KOTscan Admin"],
@@ -26,7 +26,7 @@
           }
 	      },
 	      {
-          "ulid": "01F47ADB7D36VR4J9KMWRTEJ",
+          "id": "01F47ADB7D36VR4J9KMWRTEJ",
           "name": "Country Manager",
           "type": "Country Manager",
           "applications": ["KOTscan Admin"],
@@ -39,7 +39,7 @@
           }
 	      },
 	      {
-          "ulid": "01F47ABDX86VR4J9KMWRTEJ",
+          "id": "01F47ABDX86VR4J9KMWRTEJ",
           "name": "Assistant Manager",
           "type": "Assistant Manager",
           "applications": ["KOTscan Admin"],
@@ -52,7 +52,7 @@
           }
 	      },
 	      {
-          "ulid": "01F47ADB7DX836VR4J9KMWRT",
+          "id": "01F47ADB7DX836VR4J9KMWRT",
           "name": "Administrateur",
           "type": "Administrateur",
           "applications": ["KOTscan Manager"],
@@ -65,7 +65,7 @@
           }
 	      },
 	      {
-          "ulid": "014AB7DX836VR4J9KMWRTEJ",
+          "id": "014AB7DX836VR4J9KMWRTEJ",
           "name": "Opérateur",
           "type": "Opérateur",
           "applications": ["KOTscan Manger"],
@@ -78,7 +78,7 @@
           }
 	      },
 	      {
-          "ulid": "01F47AD7DX836VR4J9KRTEJ",
+          "id": "01F47AD7DX836VR4J9KRTEJ",
           "name": "Client en compte",
           "type": "Client en compte",
           "applications": ["KOTscan Manager"],
