@@ -1,5 +1,4 @@
-{"administration": {
-	"profiles": [
+{"administration": [
 	      {
           "ulid": "01F4DB7DX836VR4J9KMWRTEJ",
           "name": "Administrateur",
@@ -96,7 +95,4 @@
       "pagination": {
         "nextCursor": null,
         "totalItems": 7
-      }
-    }
-}
 }
