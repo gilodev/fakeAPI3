@@ -1,4 +1,5 @@
-{"administration": [
+{"administration": {
+ 	"profiles": [
 	      {
           "id": "01F4DB7DX836VR4J9KMWRTEJ",
           "name": "Administrateur",
@@ -90,5 +91,12 @@
             "lastname": "Lemoine"
           }
 	      }
-    ]
+    ],
+	"metadatas": {
+      "pagination": {
+        "nextCursor": null,
+        "totalItems": 7
+      }
+    }
+}
 }
